@@ -29,7 +29,7 @@ Sistem Praktikum Universitas merupakan Website Berbasis Framework yang memungkin
 **HALAMAN UTAMA**
 ![App Screenshot](screenshot/halaman-utama.png)
 **INVENTARIS DASHBOARD**
-![App Screenshot](screenshot/dashboard.png)
+![App Screenshot](screenshot/halaman-dashboard.png)
 
 
 ## Feedback
